@@ -32,7 +32,7 @@ Olá! Meu nome é **Alisson Pereira Fernandes**, tenho 24 anos e sou natural de 
 ## 📫 Contato
 
 <p align="left">
-  <a href="mailto:alissonfernandes2224@gmail.com" target="_blank">
+  <a href="mailto:alissonfernandes2224@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/alisson-pereira-25805819a/" target="_blank">
