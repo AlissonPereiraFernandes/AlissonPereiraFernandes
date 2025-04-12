@@ -1,128 +1,58 @@
-[![MasterHead](assets/Head_GitHub.webp)](https://github.com/AlissonPereiraFernandes)
+# 👨🏻‍💻 Alisson Pereira
 
-
-# 👩🏻‍💻 Alisson Pereira
-
-🎓 Graduação: Sistemas de Informação  
-📚 Mestrado: Engenharia Biomédica - Universidade de Brasília (UnB) 
-
-**`Desenvolvedor`**
-
-Olá! Meu nome é Alisson Pereira Fernandes, tenho 24 anos e sou natural de Brasília - DF. Sou formado em Sistemas de Informação e atualmente sou mestrando em Engenharia Biomédica pela Universidade de Brasília (UnB). Sou apaixonado por tecnologia e estou focando meus estudos em Inteligência Artificial aplicada à saúde, com ênfase em computação inteligente. Busco constantemente aprender, desenvolver e contribuir com projetos, tenho interesse em soluções que unam tecnologia, ciência de dados.
+🎓 **Formação:** Sistemas de Informação  
+📚 **Mestrado:** Engenharia Biomédica - Universidade de Brasília (UnB)  
+🧠 **Especialização:** Inteligência Artificial aplicada à saúde  
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+Olá! Meu nome é **Alisson Pereira Fernandes**, tenho 24 anos e sou natural de Brasília - DF. Sou graduado em **Sistemas de Informação** e atualmente sou **mestrando em Engenharia Biomédica** pela Universidade de Brasília (UnB). Tenho grande paixão por tecnologia, com foco em **Inteligência Artificial** e **Ciência de Dados aplicada à saúde**. Estou sempre em busca de aprender, colaborar e desenvolver soluções inovadoras que unam tecnologia, ciência e impacto social.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
-/>
+## 🤖 Linguagens e Tecnologias
 
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Numpy"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"           
-/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="30px" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="30px" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="30px" title="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="30px" title="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="30px" title="Plotly"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="30px" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30px" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" title="Git"/>
+</p>
 
-<img
-    align="left" 
-    alt="Pandas" 
-    title="scikitlearn"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"       
-/>
+---
 
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Matplotlib"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
-/>
+## 📫 Contato
 
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Matplotlib"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
-/>
+<p align="left">
+  <a href="mailto:alissonfernandes2224@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alisson-pereira-25805819a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## 📊 Estatísticas GitHub
 
-
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
+    alt="Alisson GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AlissonPereiraFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonPereiraFernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonPereiraFernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
