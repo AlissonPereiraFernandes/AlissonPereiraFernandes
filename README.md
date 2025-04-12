@@ -6,7 +6,7 @@
 
 ---
 
-Olá! Meu nome é **Alisson Pereira Fernandes**, tenho 24 anos e sou natural de Brasília - DF. Sou graduado em **Sistemas de Informação** e atualmente sou **mestrando em Engenharia Biomédica** pela Universidade de Brasília (UnB). Tenho grande paixão por tecnologia, com foco em **Inteligência Artificial** e **Ciência de Dados aplicada à saúde**. Estou sempre em busca de aprender, colaborar e desenvolver soluções inovadoras que unam tecnologia, ciência e impacto social.
+Olá! Meu nome é **Alisson Pereira Fernandes**, tenho 24 anos e sou natural de Brasília - DF. Sou graduado em **Sistemas de Informação** e atualmente sou **mestrando em Engenharia Biomédica** pela Universidade de Brasília (UnB). Tenho grande paixão por tecnologia, com foco em **Inteligência Artificial**, **Ciência de Dados aplicada à saúde** e **Análise de dados**.
 
 ---
 
