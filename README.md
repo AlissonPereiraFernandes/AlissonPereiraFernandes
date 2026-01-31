@@ -44,15 +44,7 @@ Olá! Meu nome é Alisson Pereira Fernandes, tenho 24 anos e sou natural de Bras
 
 ## 📊 Estatísticas GitHub
 
-<p align="left">
-  <img 
-    alt="Alisson GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=AlissonPereiraFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonPereiraFernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+![Alisson GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlissonPereiraFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonPereiraFernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+
