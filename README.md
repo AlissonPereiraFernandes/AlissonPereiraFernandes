@@ -42,6 +42,13 @@ Olá! Meu nome é Alisson Pereira Fernandes, tenho 24 anos e sou natural de Bras
 
 ---
 
+##
+<p align="center">
+<a href="https://github.com/afonsosr2"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afonsosr2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afonsosr2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 
 
